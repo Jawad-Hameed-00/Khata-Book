@@ -50,7 +50,7 @@ In the customer details screen, input the amount and specify whether the transac
 Check each customer's full transaction history, including **dates** and **amounts**.
 
 ### ✏️❌ Edit or Delete Customers/Transactions
-Modify or delete any customer or transaction record by tapping the item in the list.
+Modify or delete any customer or transaction record by swipe-left to item in the list.
 
 ---
 
