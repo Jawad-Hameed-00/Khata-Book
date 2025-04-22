@@ -2,6 +2,13 @@
 
 **Khata Book** is a simple and efficient digital ledger app built with Kotlin using MVVM architecture and Room Database. It helps users manage customer transactions by keeping track of money given or received, along with proper date, time, and notes. This app uses modern Android development tools and follows clean architecture principles for optimal maintainability and scalability.
 
+
+<a href="https://github.com/your-username/your-repo/releases/download/v1.0/khata-book-v1.0.apk" download>
+  <button>
+    📥 Download Khata Book APK
+  </button>
+</a>
+
 ---
 
 ## 🧰 Features
